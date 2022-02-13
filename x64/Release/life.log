@@ -1,0 +1,11 @@
+﻿  start.cpp
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(83): warning C4244: '=': conversion from 'double' to 'int32', possible loss of data
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(84): warning C4244: '=': conversion from 'double' to 'int32', possible loss of data
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(383): warning C4838: conversion from 'Sint32' to 'uint32' requires a narrowing conversion
+  Generating code
+  1 of 16 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  life.vcxproj -> C:\Users\mmoni\Files\Data\Projects\practice\life\x64\Release\life.exe

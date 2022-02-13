@@ -1,0 +1,6 @@
+﻿  start.cpp
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(83): warning C4244: '=': conversion from 'double' to 'int32', possible loss of data
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(84): warning C4244: '=': conversion from 'double' to 'int32', possible loss of data
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\mmoni\files\data\projects\practice\life\start.cpp(383): warning C4838: conversion from 'Sint32' to 'uint32' requires a narrowing conversion
+  life.vcxproj -> C:\Users\mmoni\Files\Data\Projects\practice\life\x64\Debug\life.exe
